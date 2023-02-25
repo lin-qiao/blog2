@@ -1,0 +1,4 @@
+---
+home: flase
+bannerBg: none
+---
